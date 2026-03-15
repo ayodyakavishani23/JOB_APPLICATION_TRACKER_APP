@@ -14,7 +14,7 @@ const Footer = () => {
         <span className="text-gray-500">|</span>
         <a href="#" className="hover:text-white">Privacy</a>
         <span className="text-gray-500">|</span>
-        <a href="#" className="hover:text-white">Contact</a>  
+        <a href="#" className="hover:text-white">Contact Us</a>  
         </div>
     </footer>
     </>
